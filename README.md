@@ -19,7 +19,6 @@ radiuswizard({
 
 ## Options
 
-radiuswizard supports 2 options, both of which are optional:
+radiuswizard supports only one option:
 
-- _shadow_type_ - _hard | soft_ (Defaults to soft)
-- _padding_ - _boolean_ (Defaults to false)
+- _circle_ - _boolean_ (Defaults to false)
