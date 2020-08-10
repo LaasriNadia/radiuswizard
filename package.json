@@ -1,0 +1,22 @@
+{
+  "name": "radiuswizard",
+  "version": "1.0.1",
+  "description": "border-radius for your elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaasriNadia/radiuswizard.git"
+  },
+  "keywords": [
+    "border-radius"
+  ],
+  "author": "Nadia Laasri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaasriNadia/radiuswizard/issues"
+  },
+  "homepage": "https://github.com/LaasriNadia/radiuswizard#readme"
+}

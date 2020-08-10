@@ -1,17 +1,17 @@
 # Description
 
-npm package for non-designers to get perfect shadows.
+npm package for adding border-radius to your elements.
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i radiuswizard --save`
 
 ```
-import {shadowizard} from 'shadowizard';
+import {radiuswizard} from 'radiuswizard';
 
-shadowizard({
-    shadow_type:'soft',
-    padding: false
+radiuswizard({
+
+    circle: false
 })
 
 
@@ -19,7 +19,7 @@ shadowizard({
 
 ## Options
 
-Shadowizard supports 2 options, both of which are optional:
+radiuswizard supports 2 options, both of which are optional:
 
 - _shadow_type_ - _hard | soft_ (Defaults to soft)
 - _padding_ - _boolean_ (Defaults to false)
