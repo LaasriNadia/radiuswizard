@@ -3,9 +3,11 @@ function radiuswizard(options) {
 
 
     elements.forEach(el => {
-        el.style.borderRadius = `25px`
+
         if (options.circle) {
             el.style.borderRadius = '50%'
+        } else {
+            el.style.borderRadius = `25px`
         }
     })
 
